@@ -1,4 +1,4 @@
-# itsvishan
+# vishanshekhawat
 
 I am [Vishan Shekhawat](https://www.vishanshekhawat.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. 🎯 
 
