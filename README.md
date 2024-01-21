@@ -73,4 +73,4 @@ I am fully committed to designing and developing innovative materials. I am high
   ⦿ Visit my [Website](https://www.vishanshekhawat.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vishanshekhawat/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/VishnuSinghSh12) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:vishnsingh1995@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:vishnsingh007@gmail.com) 💌 <br>
