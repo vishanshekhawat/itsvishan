@@ -6,7 +6,7 @@ I am [Vishan Shekhawat](https://www.vishanshekhawat.com/), a passionate and crea
 
 I am a passionate and creative Software Engineering hailing from India, with a strong affinity for Golang and Cloud-Native technologies. Throughout my career, I have been dedicated to crafting robust, secure, and scalable infrastructures. Over multiple years, I have successfully launched and nurtured tech startups from the ground up. These ventures have allowed me to explore and implement innovative solutions to contemporary challenges, while also fostering a deep appreciation for the agility and adaptability required in the startup ecosystem. 
 
-My expertise encompasses a wide array of cutting-edge technologies, including Go (Golang), Postgres, MongoDb, Redis, RabbitMQ Kubernetes, Docker. I am well-versed in the metric collection, monitoring, and alerting tools like Prometheus, Grafana, which have been instrumental in ensuring the performance and reliability of the systems I've worked on. 
+My expertise encompasses a wide array of cutting-edge technologies, including Go (Golang), Postgres, MongoDb, Redis, RabbitMQ, Kafka, Docker. I am well-versed in the metric collection, monitoring, and alerting tools like Prometheus, Grafana, which have been instrumental in ensuring the performance and reliability of the systems I've worked on. 
 
 My expertise in these areas ensures that I am well-equipped to design and build robust, secure, and scalable backend services and infrastructures that drive the success of modern applications. Throughout my career, I have successfully navigated the complexities of remote work and distributed teams.
 
@@ -20,9 +20,6 @@ I am fully committed to designing and developing innovative materials. I am high
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/vishanshekhawat/itsvishan/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/vishanshekhawat/itsvishan/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/vishanshekhawat/itsvishan/master/assets/grpc.gif"  height="75" />
